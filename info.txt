@@ -1,0 +1,9 @@
+sources: 
+
+https://grafikart.fr/tutoriels/tp-site-html-1033#autoplay ==> vidéo projet
+
+https://www.pexels.com/fr-fr/ ==> images
+
+https://resizeimage.net ==> redimentionner les images
+
+https://www.google.fr/maps/@52.2129919,5.2793703,7z?entry=ttu ==> carte
