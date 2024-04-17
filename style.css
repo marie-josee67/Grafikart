@@ -14,5 +14,14 @@ h1{
 }
 
 table h2{
-    color:blueviolet;
+    color:rgb(173, 66, 27);
+}
+
+/* Pour ne pas casser le formulaire présciser entre [ ] le type pour le modifier spécifiquement */
+input[type=text]{
+    width: 200px;
+}
+
+input[type=email]{
+    width: 200px;
 }
