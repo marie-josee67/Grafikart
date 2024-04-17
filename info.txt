@@ -2,6 +2,8 @@ sources:
 
 https://grafikart.fr/tutoriels/tp-site-html-1033#autoplay ==> vidéo projet
 
+https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet
+
 https://www.pexels.com/fr-fr/ ==> images
 
 https://resizeimage.net ==> redimentionner les images

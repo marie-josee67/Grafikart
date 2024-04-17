@@ -1,3 +1,18 @@
-body{
-    background-color: #18cd6f;
+/* tous les éléments de la page */ 
+*{
+    background-color: #abb1ae;
+}
+
+.title_big{
+    color:rgb(123, 99, 19);
+    font-size: 3rem;
+}
+
+h1{
+    color:rgb(218, 45, 14);
+    font-size: 3rem;
+}
+
+table h2{
+    color:blueviolet;
 }
