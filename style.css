@@ -18,10 +18,7 @@ table h2{
 }
 
 /* Pour ne pas casser le formulaire présciser entre [ ] le type pour le modifier spécifiquement */
-input[type=text]{
-    width: 200px;
-}
-
-input[type=email]{
+input[type=text],
+input[type=email]{ /* mettre une virgule pour combiner des sélecteurs et aller à la ligne pour une meilleur visibilitée. */
     width: 200px;
 }
