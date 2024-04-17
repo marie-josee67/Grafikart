@@ -2,7 +2,7 @@ sources:
 
 https://grafikart.fr/tutoriels/tp-site-html-1033#autoplay ==> vidéo projet
 
-https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet
+https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet: les sélecteurs
 
 https://www.pexels.com/fr-fr/ ==> images
 
@@ -13,3 +13,5 @@ https://www.google.fr/maps/@52.2129919,5.2793703,7z?entry=ttu ==> carte
 https://chat.openai.com ==> chatGPT
 
 https://validator.w3.org ==> valider le code
+
+https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes ==> documentation sur les speudo-classes.

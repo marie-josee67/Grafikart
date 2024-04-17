@@ -1,7 +1,7 @@
 /* tous les éléments de la page */ 
-*{
+/**{
     background-color: #abb1ae;
-}
+}*/
 
 .title_big{
     color:rgb(123, 99, 19);
@@ -35,4 +35,10 @@ a:focus{
 input[type=text],
 input[type=email]{ /* mettre une virgule pour combiner des sélecteurs d'attribuent et aller à la ligne pour une meilleur visibilitée. */
     width: 200px;
+}
+
+/* permet de sélectionner une ligne sur deux pour mieux lire le tableau grace à la pseudo-classes */
+table tr:nth-of-type(2n){
+    background:rgb(241, 239, 93);
+    /*font-size: 1.5rem;*/
 }
