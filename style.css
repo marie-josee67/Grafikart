@@ -17,8 +17,22 @@ table h2{
     color:rgb(173, 66, 27);
 }
 
+a{
+    color:rgb(17, 124, 218);
+}
+
+/* pseudo-class */
+a:hover{
+    color: greenyellow;
+}
+/* :focus ==> pour ceux qui utilise le clavier au lieu de la souris */
+a:focus{
+    color:purple;
+    font-weight:bold;
+}
+
 /* Pour ne pas casser le formulaire présciser entre [ ] le type pour le modifier spécifiquement */
 input[type=text],
-input[type=email]{ /* mettre une virgule pour combiner des sélecteurs et aller à la ligne pour une meilleur visibilitée. */
+input[type=email]{ /* mettre une virgule pour combiner des sélecteurs d'attribuent et aller à la ligne pour une meilleur visibilitée. */
     width: 200px;
 }
