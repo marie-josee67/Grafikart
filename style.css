@@ -63,7 +63,7 @@ table tr:nth-child(2n){
 }
 
 .footer{
-    border: 2px dashed blue;
+    border: 4px dashed blue;
     padding: 1rem 2rem;
 
 }
