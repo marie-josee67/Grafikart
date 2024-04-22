@@ -1,11 +1,13 @@
 /* tous les éléments de la page */ 
 body{
     background-color: #abb1ae;
+    margin: 0;
 }
 
 .title_big{
     color:rgb(123, 99, 19);
     font-size: 3rem;
+    margin-top: 0; /* marge que en haut modifier */
 }
 
 h1{
@@ -64,4 +66,18 @@ table tr:nth-child(2n){
     border: 2px dashed blue;
     padding: 1rem 2rem;
 
+}
+
+.navbar{
+    display: flex;
+    margin: 2rem 0;
+    font-size: 1.5rem;
+    align-items:center;
+    justify-content:space-evenly;
+    border: 2px solid purple;
+}
+
+/* Le mieu pour les liens est le padding au lieu du margin acause de la zone clikable elle est plus important dans le padding que le margin*/
+.navbar a {
+    padding:  0 1rem;
 }
