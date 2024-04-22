@@ -4,6 +4,8 @@ https://grafikart.fr/tutoriels/tp-site-html-1033#autoplay ==> vidéo projet
 
 https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet: les sélecteurs
 
+https://grafikart.fr/tutoriels/boite-css-1036#autoplay ==> vidéo projet: modèle de boîte
+
 https://www.pexels.com/fr-fr/ ==> images
 
 https://resizeimage.net ==> redimentionner les images
