@@ -19,3 +19,5 @@ https://chat.openai.com ==> chatGPT
 https://validator.w3.org ==> valider le code
 
 https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes ==> documentation sur les speudo-classes.
+
+https://devdocs.io/css/ ==> documentation possible
