@@ -2,6 +2,7 @@
 body{
     background-color: #abb1ae;
     margin: 0;
+    font-family: "Comic Sans MS", "Helvetica", "serif"; /* police de caractère serif pour les textes et sens-serif pour les titres ou texte court*/
 }
 
 .title_big{
@@ -63,7 +64,7 @@ table tr:nth-child(2n){
     padding: 2rem;
     font-size: 1.6rem;
     line-height: 1.4; /* la règle ici est de mettre entre 1.4 à 1.6 le navigateur lui met par défault 1.2 */
-
+    letter-spacing: 0.1rem; /* distance entre les lettres permet de faire respirer des typo spécifique */
 }
 
 .footer{
