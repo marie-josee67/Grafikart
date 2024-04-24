@@ -114,3 +114,15 @@ table tr:nth-child(2n){
     hyphens: auto; /*  pour mettre un petit - lors de la séparation du mot si &shy est placer dans le mot en HTML */
     border: 2px solid yellow;
 }
+
+/* ** modification de la première lettre du premier paragraphe ** */
+.main p:first-of-type::first-letter{
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+/* ** modification de la première lettre de tous les paragraphes ** */
+.main p:first-letter{
+    font-style: italic;
+    font-size: 2.5rem;
+}
