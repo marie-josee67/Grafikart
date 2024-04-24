@@ -93,9 +93,15 @@ table tr:nth-child(2n){
     color:inherit; /* hérite de son parent qui ici est .header */
 }
 
-
 .main p {
     text-align: justify;
     text-justify: auto; /* premet de choisir le comportement de la dernière ligne d'un texte justifier */
-    text-align-last: right; /* permet de choisir ou placer la dernière ligne */
+    /*text-align-last: center; /* permet de choisir ou placer la dernière ligne */
+}
+
+.mot_long{
+    width: 20rem;
+    overflow-wrap: break-word; /* permet de casser un mot trop long qui sortirair de sa boite */
+    hyphens: auto; /*  pour mettre un petit - lors de la séparation du mot si &shy est placer dans le mot en HTML */
+    border: 2px solid yellow;
 }
