@@ -49,6 +49,8 @@ table tr:nth-child(2n){
 .header{
     border: 2px solid red;
     padding: 2rem;
+    color: #a2a00c;
+    font-size: 2rem;
 }
 
 .header img{
@@ -59,6 +61,8 @@ table tr:nth-child(2n){
 .main{
     border: thick double rgb(0, 255, 34);
     padding: 2rem;
+    font-size: 1.6rem;
+    line-height: 1.4; /* la règle ici est de mettre entre 1.4 à 1.6 le navigateur lui met par défault 1.2 */
 
 }
 
@@ -68,6 +72,7 @@ table tr:nth-child(2n){
 
 }
 
+/* * barre de navigation * */
 .navbar{
     display: flex;
     margin: 2rem 0;
@@ -75,9 +80,11 @@ table tr:nth-child(2n){
     align-items:center;
     justify-content:space-evenly;
     border: 2px solid purple;
+    color:none; /* retrait de la règle du parent au niveau de la couleur */
 }
 
-/* Le mieu pour les liens est le padding au lieu du margin acause de la zone clikable elle est plus important dans le padding que le margin*/
+/* Le mieux pour les liens est le padding au lieu du margin acause de la zone clikable elle est plus important dans le padding que le margin*/
 .navbar a {
     padding:  0 1rem;
+    color:inherit; /* hérite de son parent qui ici est .header */
 }
