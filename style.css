@@ -96,4 +96,6 @@ table tr:nth-child(2n){
 
 .main p {
     text-align: justify;
+    text-justify: auto; /* premet de choisir le comportement de la dernière ligne d'un texte justifier */
+    text-align-last: right; /* permet de choisir ou placer la dernière ligne */
 }

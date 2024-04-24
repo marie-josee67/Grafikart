@@ -21,3 +21,5 @@ https://validator.w3.org ==> valider le code
 https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes ==> documentation sur les speudo-classes.
 
 https://devdocs.io/css/ ==> documentation possible
+
+https://developer.mozilla.org/fr/docs/Web/CSS/text-justify ==> la dernière ligne d'un tetxte justifier documentation
