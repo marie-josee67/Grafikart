@@ -10,6 +10,8 @@ body{
     font-size: 3rem;
     margin-top: 0; /* marge que en haut modifier */
     text-align: center; /* centrer le texte dans sa boite seulement si c'est un type inline ou inline-block */
+    font-style:italic;
+    font-weight:bolder; /* graisse de la police */
     border: 2px dashed rgb(191, 29, 197);
 }
 
@@ -91,9 +93,16 @@ table tr:nth-child(2n){
 .navbar a {
     padding:  0 1rem;
     color:inherit; /* hérite de son parent qui ici est .header */
+    text-decoration: none;
+    font-weight: 600; /* graisse de la police */
+}
+
+.navbar a:hover{
+    text-decoration: underline;
 }
 
 .main p {
+    text-decoration: underline; /* souligner le texte */
     text-align: justify;
     text-justify: auto; /* premet de choisir le comportement de la dernière ligne d'un texte justifier */
     /*text-align-last: center; /* permet de choisir ou placer la dernière ligne */
