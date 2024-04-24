@@ -7,6 +7,7 @@ body{
 
 .title_big{
     color:rgb(123, 99, 19);
+    text-transform:uppercase; /* met tous en majuscule */
     font-size: 3rem;
     margin-top: 0; /* marge que en haut modifier */
     text-align: center; /* centrer le texte dans sa boite seulement si c'est un type inline ou inline-block */
