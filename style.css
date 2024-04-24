@@ -9,6 +9,8 @@ body{
     color:rgb(123, 99, 19);
     font-size: 3rem;
     margin-top: 0; /* marge que en haut modifier */
+    text-align: center; /* centrer le texte dans sa boite seulement si c'est un type inline ou inline-block */
+    border: 2px dashed rgb(191, 29, 197);
 }
 
 h1{
@@ -51,7 +53,7 @@ table tr:nth-child(2n){
     border: 2px solid red;
     padding: 2rem;
     color: #a2a00c;
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 
 .header img{
@@ -62,14 +64,14 @@ table tr:nth-child(2n){
 .main{
     border: thick double rgb(0, 255, 34);
     padding: 2rem;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     line-height: 1.4; /* la règle ici est de mettre entre 1.4 à 1.6 le navigateur lui met par défault 1.2 */
     letter-spacing: 0.1rem; /* distance entre les lettres permet de faire respirer des typo spécifique */
 }
 
 .footer{
-    border: 4px dashed blue;
     padding: 1rem 2rem;
+    border: 4px dashed blue;
 
 }
 
@@ -78,6 +80,7 @@ table tr:nth-child(2n){
     display: flex;
     margin: 2rem 0;
     font-size: 1.5rem;
+    text-align: center;
     align-items:center;
     justify-content:space-evenly;
     border: 2px solid purple;
@@ -88,4 +91,9 @@ table tr:nth-child(2n){
 .navbar a {
     padding:  0 1rem;
     color:inherit; /* hérite de son parent qui ici est .header */
+}
+
+
+.main p {
+    text-align: justify;
 }
