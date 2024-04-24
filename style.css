@@ -5,6 +5,7 @@ body{
     font-family: "Comic Sans MS", "Helvetica", "serif"; /* police de caractère serif pour les textes et sens-serif pour les titres ou texte court*/
 }
 
+/* Titre de la page  */
 .title_big{
     color:rgb(123, 99, 19);
     text-transform:uppercase; /* met tous en majuscule */
