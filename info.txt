@@ -6,6 +6,8 @@ https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet: le
 
 https://grafikart.fr/tutoriels/boite-css-1036#autoplay ==> vidéo projet: modèle de boîte
 
+https://grafikart.fr/tutoriels/police-texte-css-1037#autoplay ==> typo
+
 https://www.pexels.com/fr-fr/ ==> images
 
 https://resizeimage.net ==> redimentionner les images
