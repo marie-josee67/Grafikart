@@ -1,5 +1,7 @@
 sources: 
 
+I) Cours:
+
 https://grafikart.fr/tutoriels/tp-site-html-1033#autoplay ==> vidéo projet
 
 https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet: les sélecteurs
@@ -7,6 +9,11 @@ https://grafikart.fr/tutoriels/selecteur-css-1035#autoplay ==> vidéo projet: le
 https://grafikart.fr/tutoriels/boite-css-1036#autoplay ==> vidéo projet: modèle de boîte
 
 https://grafikart.fr/tutoriels/police-texte-css-1037#autoplay ==> typo
+
+https://grafikart.fr/tutoriels/couleurs-css-1038#autoplay ==> format et couleur
+
+
+II) Autres:
 
 https://www.pexels.com/fr-fr/ ==> images
 
