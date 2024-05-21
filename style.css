@@ -14,7 +14,7 @@ body{
     text-align: center; /* centrer le texte dans sa boite seulement si c'est un type inline ou inline-block */
     font-style:italic;
     font-weight:bolder; /* graisse de la police */
-    border: 2px dashed rgb(191, 29, 197);
+    /*border: 2px dashed rgb(191, 29, 197);*/
 }
 
 h1{
@@ -54,10 +54,10 @@ table tr:nth-child(2n){
 
 /* mise en place d'indicateur */
 .header{
-    border: 2px solid red;
     padding: 2rem;
     color: #a2a00c;
     font-size: 1.6rem;
+    /*border: 2px solid red;*/
 }
 
 .header img{
@@ -66,17 +66,16 @@ table tr:nth-child(2n){
 }
 
 .main{
-    border: thick double rgb(0, 255, 34);
     padding: 2rem;
     font-size: 1.2rem;
     line-height: 1.4; /* la règle ici est de mettre entre 1.4 à 1.6 le navigateur lui met par défault 1.2 */
     letter-spacing: 0.1rem; /* distance entre les lettres permet de faire respirer des typo spécifique */
+    /*border: thick double rgb(0, 255, 34);*/
 }
 
 .footer{
     padding: 1rem 2rem;
-    border: 4px dashed blue;
-
+    /*border: 4px dashed blue;*/
 }
 
 /* * barre de navigation * */
@@ -87,8 +86,8 @@ table tr:nth-child(2n){
     text-align: center;
     align-items:center;
     justify-content:space-evenly;
-    border: 2px solid purple;
     color:none; /* retrait de la règle du parent au niveau de la couleur */
+    /*border: 2px solid purple;*/
 }
 
 /* Le mieux pour les liens est le padding au lieu du margin acause de la zone clikable elle est plus important dans le padding que le margin*/
@@ -114,7 +113,7 @@ table tr:nth-child(2n){
     width: 20rem;
     overflow-wrap: break-word; /* permet de casser un mot trop long qui sortirair de sa boite */
     hyphens: auto; /*  pour mettre un petit - lors de la séparation du mot si &shy est placer dans le mot en HTML */
-    border: 2px solid yellow;
+    /*border: 2px solid yellow;*/
 }
 
 /* ** modification de la première lettre du premier paragraphe ** */

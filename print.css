@@ -1,0 +1,6 @@
+/* *** pour l'impression les unités de mesure sont alors normal A4, mm, cm, in, pt, pc ... ***** */
+
+.footer{
+    padding: 1cm 2cm;
+    /*border: 4mm dashed blue;*/
+}
