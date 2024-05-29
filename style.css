@@ -106,10 +106,10 @@ table tr:nth-child(2n){
 
 /* * barre de navigation * */
 .navbar{
-    position: sticky;/* quand on scrool suite jusqu'à ce que l'on sort de l'élément parent */
-    top:0;
+    /*position: sticky;/* quand on scrool suite jusqu'à ce que l'on sort de l'élément parent */
+    /*top:0;
     left:0;
-    right:0;
+    right:0;*/
     display: flex;
     margin: 2rem 0;
     font-size: 1.5rem;
