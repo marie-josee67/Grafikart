@@ -106,7 +106,7 @@ table tr:nth-child(2n){
 
 /* * barre de navigation * */
 .navbar{
-    position:absolute;
+    position:fixed;
     top:0;
     left: 10px;
     right:10px;
