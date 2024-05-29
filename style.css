@@ -106,9 +106,10 @@ table tr:nth-child(2n){
 
 /* * barre de navigation * */
 .navbar{
-    position:relative;
-    top:20px;
-    left:-10px;
+    position: sticky;/* quand on scrool suite jusqu'à ce que l'on sort de l'élément parent */
+    top:0;
+    left:0;
+    right:0;
     display: flex;
     margin: 2rem 0;
     font-size: 1.5rem;
@@ -116,7 +117,7 @@ table tr:nth-child(2n){
     align-items:center;
     justify-content:space-evenly;
     color:none; /* retrait de la règle du parent au niveau de la couleur */
-    border: 2px solid purple;
+    /*border: 2px solid purple;*/
 }
 
 /* Le mieux pour les liens est le padding au lieu du margin acause de la zone clikable elle est plus important dans le padding que le margin*/
