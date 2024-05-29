@@ -14,6 +14,8 @@ https://grafikart.fr/tutoriels/couleurs-css-1038#autoplay ==> format et couleur
 
 https://grafikart.fr/tutoriels/units-css-1039#autoplay ==> les unités de mesures
 
+https://grafikart.fr/tutoriels/positions-css-1040#autoplay ==> le positionnement
+
 
 
 II) Autres:
