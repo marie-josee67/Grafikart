@@ -1,7 +1,7 @@
 /* tous les éléments de la page */ 
 body{
     background-color: #abb1ae;
-    margin: 0;
+    margin-left: 20px;
     font-family: "Comic Sans MS", "Helvetica", "serif"; /* police de caractère serif pour les textes et sens-serif pour les titres ou texte court*/
 }
 
