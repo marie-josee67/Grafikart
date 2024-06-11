@@ -182,3 +182,16 @@ table tr:nth-child(2n){
     font-style: italic;
     font-size: 2.5rem;
 }
+
+/* ** exemple pour une leçon d'un élément float, idéale pour des blogs par exemple** */
+.alignleft{
+    float: left;
+    margin-right: 15px;
+    border: solid 2px red;
+}
+
+.alignright{
+    float: right;
+    margin-left: 15px;
+    border: solid 2px red;
+}

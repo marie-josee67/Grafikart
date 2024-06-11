@@ -36,3 +36,5 @@ https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes ==> documentation s
 https://devdocs.io/css/ ==> documentation possible
 
 https://developer.mozilla.org/fr/docs/Web/CSS/text-justify ==> la dernière ligne d'un tetxte justifier documentation
+
+https://image-placeholder.com ==> générer des images fixtif
