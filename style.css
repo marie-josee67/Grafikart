@@ -70,6 +70,8 @@ table tr:nth-child(2n){
     color: #a2a00c;
     font-size: 1.6rem;
     background-image: url(./img/parc.jpg); /* pour rajouter une image de fond */
+    background-repeat: no-repeat; /* pour que l'image en fond d'écran ne se répète pas */
+    background-attachment: fixed; /* donne une impression que le site bouge et non l'image */
     /*border: 2px solid red;*/
 }
 
@@ -78,6 +80,8 @@ table tr:nth-child(2n){
     padding: 2rem;
     color: #bd4a14;
     font-size: 1.6rem;
+    background-image: url(./img/parc.jpg); /* pour rajouter une image de fond */
+    background-position: center;/* où possitionner l'image */
     /*border: 2px solid red;*/
 }
 
