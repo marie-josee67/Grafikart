@@ -18,6 +18,8 @@ https://grafikart.fr/tutoriels/positions-css-1040#autoplay ==> le positionnement
 
 https://grafikart.fr/tutoriels/float-css-1041#autoplay ==> les éléments flottants: float
 
+https://grafikart.fr/tutoriels/background-css-1042#autoplay ==> propriété background
+
 
 II) Autres:
 
