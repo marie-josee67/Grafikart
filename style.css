@@ -69,6 +69,7 @@ table tr:nth-child(2n){
     padding: 2rem;
     color: #a2a00c;
     font-size: 1.6rem;
+    background-image: url(./img/Baniere_menu.jpg); /* pour rajouter une image de fond */
     /*border: 2px solid red;*/
 }
 
