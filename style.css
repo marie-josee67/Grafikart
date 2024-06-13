@@ -117,6 +117,7 @@ table tr:nth-child(2n){
     align-items:center;
     justify-content:space-evenly;
     color:none; /* retrait de la règle du parent au niveau de la couleur */
+    background-color: rgba(255, 255, 255, 0.2);
     /*border: 2px solid purple;*/
 }
 
@@ -131,6 +132,7 @@ table tr:nth-child(2n){
 
 .navbar a:hover{
     text-decoration: underline;
+    background-color: rgba(255, 255, 255, 0.4);
 }
 
 /* pour le deuxième pages du site */
@@ -142,6 +144,7 @@ table tr:nth-child(2n){
     align-items:center;
     justify-content:space-evenly;
     color:none; /* retrait de la règle du parent au niveau de la couleur */
+    background-color: rgba(255, 255, 255, 0.2);
     /*border: 2px solid purple;*/
 }
 
@@ -155,6 +158,7 @@ table tr:nth-child(2n){
 
 .navbar1 a:hover{
     text-decoration: underline;
+    background-color: rgba(255, 255, 255, 0.4);
 }
 
 .main p {
