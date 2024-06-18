@@ -1,3 +1,8 @@
+/* Pour que tous les % prennent en compte les margins et paddings sur tous le site */
+*{
+    box-sizing: border-box;
+}
+
 /* tous les éléments de la page */ 
 body{
     background-color: #abb1ae;
