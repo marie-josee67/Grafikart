@@ -20,6 +20,9 @@ https://grafikart.fr/tutoriels/float-css-1041#autoplay ==> les éléments flotta
 
 https://grafikart.fr/tutoriels/background-css-1042#autoplay ==> propriété background
 
+https://grafikart.fr/tutoriels/box-sizing-css-1043#autoplay ==> box sizing
+
+
 
 II) Autres:
 
