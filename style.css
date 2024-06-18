@@ -128,6 +128,8 @@ table tr:nth-child(2n){
 
 /* Le mieux pour les liens est le padding au lieu du margin acause de la zone clikable elle est plus important dans le padding que le margin*/
 .navbar a {
+    /*width: 25%; exemple pour le cour */
+    /*box-sizing: border-box;  exemple pour le cour */
     padding:  0 1rem;
     color:inherit; /* hérite de son parent qui ici est .header */
     text-decoration: none;
