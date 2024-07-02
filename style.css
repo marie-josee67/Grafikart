@@ -216,3 +216,10 @@ table tr:nth-child(2n){
 hr{
     clear: both;
 }
+
+/*  pour le cour flexbox  */
+
+.flex div{
+    width: 100%;
+    border: solid 2px darkred;
+}
