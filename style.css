@@ -221,9 +221,13 @@ hr{
 
 .flex{
     display: flex;
-    width: 300px;
+    /*width: 300px;*/
     /*flex-wrap: wrap; /* permet de définir le comportement ici si pas asser de place l'élément va sur la ligne suivante */
-    flex-wrap: wrap-reverse;/* ligne précédent au en cas ou il n'y a pas de place. */
+    /*flex-wrap: wrap-reverse;/* ligne précédent au en cas ou il n'y a pas de place. */
+    justify-content: flex-start;/* par défault alignement par la gauche */
+    justify-content: space-between;/* espace entre les éléments */
+    justify-content: space-around;/* espace entre les éléménents et autour aussi */
+    justify-content: space-evenly;/* même taille d'espace entre les éléments */
 }
 
 .flex div{
