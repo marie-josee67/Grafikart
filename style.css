@@ -222,7 +222,8 @@ hr{
 .flex{
     display: flex;
     width: 300px;
-    flex-wrap: wrap; /* permet de définir le comportement ici si pas asser de place l'élément va sur la ligne suivante */
+    /*flex-wrap: wrap; /* permet de définir le comportement ici si pas asser de place l'élément va sur la ligne suivante */
+    flex-wrap: wrap-reverse;/* ligne précédent au en cas ou il n'y a pas de place. */
 }
 
 .flex div{
