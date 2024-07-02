@@ -232,7 +232,8 @@ hr{
     height: 200px;
     /*align-items:stretch; /* valeur par défault */
     /*align-items:flex-start; /*ce place par rapport au départ de l'élément donc le haut */
-    align-items:flex-end; /* le bas on dirait un graphique */
+    /*align-items:flex-end; /* le bas on dirait un graphique */
+    align-items: baseline; /* s'aligne par rapport au texte */
 }
 
 .flex div{
@@ -243,6 +244,7 @@ hr{
 
 .flex div:nth-child(2){
     height: 100px;
+    font-size: 2rem;
 }
 
 .flex div:nth-child(4){
