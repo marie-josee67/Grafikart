@@ -224,14 +224,27 @@ hr{
     /*width: 300px;*/
     /*flex-wrap: wrap; /* permet de définir le comportement ici si pas asser de place l'élément va sur la ligne suivante */
     /*flex-wrap: wrap-reverse;/* ligne précédent au en cas ou il n'y a pas de place. */
-    justify-content: flex-start;/* par défault alignement par la gauche */
-    justify-content: space-between;/* espace entre les éléments */
-    justify-content: space-around;/* espace entre les éléménents et autour aussi */
-    justify-content: space-evenly;/* même taille d'espace entre les éléments */
+    /*justify-content: flex-start;/* par défault alignement par la gauche */
+    /*justify-content: space-between;/* espace entre les éléments */
+    /*justify-content: space-around;/* espace entre les éléménents et autour aussi */
+    /*justify-content: space-evenly;/* même taille d'espace entre les éléments */
+
+    height: 200px;
+    /*align-items:stretch; /* valeur par défault */
+    /*align-items:flex-start; /*ce place par rapport au départ de l'élément donc le haut */
+    align-items:flex-end; /* le bas on dirait un graphique */
 }
 
 .flex div{
     width: 100px;
     text-align: center;
     border: solid 2px rgb(51, 214, 18);
+}
+
+.flex div:nth-child(2){
+    height: 100px;
+}
+
+.flex div:nth-child(4){
+    height: 200px;
 }
