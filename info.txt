@@ -22,7 +22,7 @@ https://grafikart.fr/tutoriels/background-css-1042#autoplay ==> propriété back
 
 https://grafikart.fr/tutoriels/box-sizing-css-1043#autoplay ==> box sizing
 
-https://grafikart.fr/tutoriels/flexbox-806#autoplay ==> flexbox
+https://grafikart.fr/tutoriels/flexbox-806#autoplay ==> flexbox 10:22
 
 
 
