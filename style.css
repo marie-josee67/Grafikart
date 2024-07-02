@@ -127,7 +127,7 @@ table tr:nth-child(2n){
     align-items:center;
     justify-content:space-evenly;
     color:none; /* retrait de la règle du parent au niveau de la couleur */
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.747);
     /*border: 2px solid purple;*/
 }
 
