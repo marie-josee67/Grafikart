@@ -245,8 +245,11 @@ hr{
 .flex div:nth-child(2){
     height: 100px;
     font-size: 2rem;
+    align-self: flex-end;/* différent placement par rapport au autre */
+    flex-grow: 1;/* sépare la place restante ici en 11 part et donne 1 a Beta et 10 a Delta */
 }
 
 .flex div:nth-child(4){
     height: 200px;
+    flex-grow: 10;
 }

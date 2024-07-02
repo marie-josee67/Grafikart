@@ -49,3 +49,5 @@ https://image-placeholder.com ==> générer des images fixtif
 https://developer.mozilla.org/fr/docs/Web/CSS/clear ==> documentation du clear
 
 https://unsplash.com/fr/s/photos/parc-bucolique ==> image du parc
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks ==> fiche technique flexbox utile
