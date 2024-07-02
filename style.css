@@ -219,7 +219,14 @@ hr{
 
 /*  pour le cour flexbox  */
 
+.flex{
+    display: flex;
+    width: 300px;
+    flex-wrap: wrap; /* permet de définir le comportement ici si pas asser de place l'élément va sur la ligne suivante */
+}
+
 .flex div{
-    width: 100%;
-    border: solid 2px darkred;
+    width: 100px;
+    text-align: center;
+    border: solid 2px rgb(51, 214, 18);
 }
